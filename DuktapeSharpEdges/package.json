@@ -1,0 +1,14 @@
+{
+    "name": "DuktapeSharpEdges",
+    "version": "0.0.0",
+    "description": "DuktapeSharpEdges",
+    "main": "app.js",
+    "author": {
+        "name": "Sleepyhead",
+        "email": ""
+    },
+    "dependencies": {
+        "duktape": "*",
+        "edge": "*"
+    }
+}
